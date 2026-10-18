@@ -5,3 +5,5 @@ Python practice files_1
 
 
 
+<img src="https://github.com/Mumtaz-786/Python-Practice-Files/blob/d3af26a8864e2c4782f649623dc2112d1cb6dbbb/Fresher.JPG" alt="Image Description" width="600">
+
